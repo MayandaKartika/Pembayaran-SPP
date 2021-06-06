@@ -1,0 +1,8 @@
+.card-content {
+    background: #41c4db;
+    width: 250px;
+}
+.card-title i{
+    text-align: right;
+    color: #173f46;
+}
